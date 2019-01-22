@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\VerbanacTeo_RichTextBox\VerbanacTeo_RichTextBox\bin\Debug\VerbanacTeo_RichTextBox.exe.config
+C:\Users\Admin\source\repos\VerbanacTeo_RichTextBox\VerbanacTeo_RichTextBox\bin\Debug\VerbanacTeo_RichTextBox.exe
+C:\Users\Admin\source\repos\VerbanacTeo_RichTextBox\VerbanacTeo_RichTextBox\bin\Debug\VerbanacTeo_RichTextBox.pdb
+C:\Users\Admin\source\repos\VerbanacTeo_RichTextBox\VerbanacTeo_RichTextBox\obj\Debug\VerbanacTeo_RichTextBox.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\VerbanacTeo_RichTextBox\VerbanacTeo_RichTextBox\obj\Debug\VerbanacTeo_RichTextBox.Form1.resources
+C:\Users\Admin\source\repos\VerbanacTeo_RichTextBox\VerbanacTeo_RichTextBox\obj\Debug\VerbanacTeo_RichTextBox.Properties.Resources.resources
+C:\Users\Admin\source\repos\VerbanacTeo_RichTextBox\VerbanacTeo_RichTextBox\obj\Debug\VerbanacTeo_RichTextBox.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\VerbanacTeo_RichTextBox\VerbanacTeo_RichTextBox\obj\Debug\VerbanacTeo_RichTextBox.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\VerbanacTeo_RichTextBox\VerbanacTeo_RichTextBox\obj\Debug\VerbanacTeo_RichTextBox.exe
+C:\Users\Admin\source\repos\VerbanacTeo_RichTextBox\VerbanacTeo_RichTextBox\obj\Debug\VerbanacTeo_RichTextBox.pdb
