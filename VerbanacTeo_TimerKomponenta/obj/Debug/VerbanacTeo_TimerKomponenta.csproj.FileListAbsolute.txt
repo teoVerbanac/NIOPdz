@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\VerbanacTeo_TimerKomponenta\VerbanacTeo_TimerKomponenta\obj\Debug\VerbanacTeo_TimerKomponenta.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\VerbanacTeo_TimerKomponenta\VerbanacTeo_TimerKomponenta\obj\Debug\VerbanacTeo_TimerKomponenta.Form1.resources
+C:\Users\Admin\source\repos\VerbanacTeo_TimerKomponenta\VerbanacTeo_TimerKomponenta\obj\Debug\VerbanacTeo_TimerKomponenta.Properties.Resources.resources
+C:\Users\Admin\source\repos\VerbanacTeo_TimerKomponenta\VerbanacTeo_TimerKomponenta\obj\Debug\VerbanacTeo_TimerKomponenta.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\VerbanacTeo_TimerKomponenta\VerbanacTeo_TimerKomponenta\obj\Debug\VerbanacTeo_TimerKomponenta.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\VerbanacTeo_TimerKomponenta\VerbanacTeo_TimerKomponenta\bin\Debug\VerbanacTeo_TimerKomponenta.exe.config
+C:\Users\Admin\source\repos\VerbanacTeo_TimerKomponenta\VerbanacTeo_TimerKomponenta\bin\Debug\VerbanacTeo_TimerKomponenta.exe
+C:\Users\Admin\source\repos\VerbanacTeo_TimerKomponenta\VerbanacTeo_TimerKomponenta\bin\Debug\VerbanacTeo_TimerKomponenta.pdb
+C:\Users\Admin\source\repos\VerbanacTeo_TimerKomponenta\VerbanacTeo_TimerKomponenta\obj\Debug\VerbanacTeo_TimerKomponenta.exe
+C:\Users\Admin\source\repos\VerbanacTeo_TimerKomponenta\VerbanacTeo_TimerKomponenta\obj\Debug\VerbanacTeo_TimerKomponenta.pdb
