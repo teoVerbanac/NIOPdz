@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\VerbanacTeo_ImgList\VerbanacTeo_ImgList\obj\Debug\VerbanacTeo_ImgList.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\VerbanacTeo_ImgList\VerbanacTeo_ImgList\obj\Debug\VerbanacTeo_ImgList.Properties.Resources.resources
+C:\Users\Admin\source\repos\VerbanacTeo_ImgList\VerbanacTeo_ImgList\obj\Debug\VerbanacTeo_ImgList.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\VerbanacTeo_ImgList\VerbanacTeo_ImgList\obj\Debug\VerbanacTeo_ImgList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\VerbanacTeo_ImgList\VerbanacTeo_ImgList\bin\Debug\VerbanacTeo_ImgList.exe.config
+C:\Users\Admin\source\repos\VerbanacTeo_ImgList\VerbanacTeo_ImgList\bin\Debug\VerbanacTeo_ImgList.exe
+C:\Users\Admin\source\repos\VerbanacTeo_ImgList\VerbanacTeo_ImgList\bin\Debug\VerbanacTeo_ImgList.pdb
+C:\Users\Admin\source\repos\VerbanacTeo_ImgList\VerbanacTeo_ImgList\obj\Debug\VerbanacTeo_ImgList.Form1.resources
+C:\Users\Admin\source\repos\VerbanacTeo_ImgList\VerbanacTeo_ImgList\obj\Debug\VerbanacTeo_ImgList.exe
+C:\Users\Admin\source\repos\VerbanacTeo_ImgList\VerbanacTeo_ImgList\obj\Debug\VerbanacTeo_ImgList.pdb
