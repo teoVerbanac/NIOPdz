@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\VerbanacTeoMonthCalendar\VerbanacTeoMonthCalendar\bin\Debug\VerbanacTeoMonthCalendar.exe.config
+C:\Users\Admin\source\repos\VerbanacTeoMonthCalendar\VerbanacTeoMonthCalendar\bin\Debug\VerbanacTeoMonthCalendar.exe
+C:\Users\Admin\source\repos\VerbanacTeoMonthCalendar\VerbanacTeoMonthCalendar\bin\Debug\VerbanacTeoMonthCalendar.pdb
+C:\Users\Admin\source\repos\VerbanacTeoMonthCalendar\VerbanacTeoMonthCalendar\obj\Debug\VerbanacTeoMonthCalendar.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\VerbanacTeoMonthCalendar\VerbanacTeoMonthCalendar\obj\Debug\VerbanacTeoMonthCalendar.Form1.resources
+C:\Users\Admin\source\repos\VerbanacTeoMonthCalendar\VerbanacTeoMonthCalendar\obj\Debug\VerbanacTeoMonthCalendar.Properties.Resources.resources
+C:\Users\Admin\source\repos\VerbanacTeoMonthCalendar\VerbanacTeoMonthCalendar\obj\Debug\VerbanacTeoMonthCalendar.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\VerbanacTeoMonthCalendar\VerbanacTeoMonthCalendar\obj\Debug\VerbanacTeoMonthCalendar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\VerbanacTeoMonthCalendar\VerbanacTeoMonthCalendar\obj\Debug\VerbanacTeoMonthCalendar.exe
+C:\Users\Admin\source\repos\VerbanacTeoMonthCalendar\VerbanacTeoMonthCalendar\obj\Debug\VerbanacTeoMonthCalendar.pdb
